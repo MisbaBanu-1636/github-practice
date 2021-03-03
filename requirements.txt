@@ -3,3 +3,6 @@ This is a sample text document.
 Emoji
 colors
 videos
+
+themes
+images
