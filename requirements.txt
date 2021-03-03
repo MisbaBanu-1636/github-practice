@@ -6,3 +6,9 @@ videos
 
 themes
 images
+Emoji
+colors
+videos
+
+themes
+images
